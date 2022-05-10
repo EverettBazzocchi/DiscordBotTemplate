@@ -105,4 +105,5 @@ dist
 
 
 # Config Files
-.config.json
+config.json
+./config.json
